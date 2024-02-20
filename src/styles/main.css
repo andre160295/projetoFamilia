@@ -1,0 +1,39 @@
+/*Menu de Navegação*/
+.navigation{
+    display:inline-block;
+    align-items:center;
+    justify-content: center;
+    padding:5px;
+    max-width:10%;
+    height:50%;
+    margin:0px 0px 0px 3px;
+    border: 1px solid red;
+}
+
+.nav_botoes{
+    display:flexbox;
+    flex-direction: column;
+    Background-color:#6A7BA2;
+    border-radius:10px;
+    padding: 22em 3em;
+}
+
+/*Conteúdo Principal*/
+.main_container{
+    display: inline-block;
+    border: 1px solid red;
+}
+
+.galeria1{
+    display: block;
+    Background-color:#6A7BA2;
+}
+
+.conteudo{
+    display: block;
+}
+
+.galeria2{
+    display: block;
+    Background-color:#6A7BA2;
+}
