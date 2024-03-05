@@ -1,3 +1,17 @@
-.rodape{
+.rodape_container{
+    display:inline-flex;
+    padding: 5px;
+    margin: 3px 3px;
+    border: 1px solid red;
+    max-width: 100%;
+
+}
+
+.rodape_container .rodape_conteudo{
+    display:block;
+    align-items:flex-end;
+    justify-content:space-between;
     Background-color:#6A7BA2;
+    border-radius:10px;
+    padding: 1.4em 45.9em;
 }

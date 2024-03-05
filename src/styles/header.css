@@ -1,10 +1,9 @@
 .header-container{
-    display:flex;
+    display:block;
     align-items:center;
     justify-content: center;
     padding:5px;
     max-width:100%;
-    max-height:15%;
     margin: 3px 3px;
 }
 
