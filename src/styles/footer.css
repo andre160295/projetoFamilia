@@ -1,3 +1,14 @@
+footer{
+    grid-area: footer;
+    border: 1px solid #DEA5DF;
+    border-radius: 15px;
+    background-color:#363636;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:4px 4px 4px #404040;
+}
+
 .rodape_container .rodape_conteudo{
     text-align: center;
 }

@@ -1,3 +1,17 @@
+header{
+    grid-area: header;
+    border: 1px solid #DEA5DF;
+    border-radius: 15px;
+    background-color:#363636;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 150px;
+    font-size: 50px;
+    box-shadow:4px 4px 4px #404040;    
+}
+
+
 .header-container .page-title{
     text-align: center;
 }
